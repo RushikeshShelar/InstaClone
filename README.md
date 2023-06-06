@@ -1,7 +1,7 @@
 
 # Instgram Clone
 
-This repository contains the HTML and CSS code for a basic front-end clone of the Instagram homepage. The project aims to replicate the visual layout and design of the original Instagram homepage.
+This repository contains the HTML and CSS code for a basic front-end clone of the Instagram homepage. The project aims to replicate the visual layout and design of the original Instagram homepage. Visit the site [here](https://rushikeshshelar.github.io/InstaClone/)
 
 
 ## Tech Stack
