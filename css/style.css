@@ -13,6 +13,7 @@ body {
     background: #f8f8f8;
     padding-top: 15px;
     padding-left: 15px;
+    overflow-x: hidden;
 }
 
 :root {
@@ -30,7 +31,7 @@ body {
 
 .main-home {
     position: absolute;
-    width: calc(100% - 300px);
+    width: calc(100% - 321px);
     top: 0;
     left: 320px;
     background: #fff;
@@ -288,7 +289,7 @@ body {
     font-size: 1rem;
     margin-top: 1rem;
     position: relative;
-    left: 490px;
+    left: 477px;
 }
 
 .feed-text span {
@@ -302,7 +303,8 @@ body {
 .main-post{
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(300px,auto));
-    gap: 11px; 
+    gap: 15px; 
+    padding-left: 30px
 }   
 
 .post-box{
@@ -310,6 +312,13 @@ body {
 }
 
 .post-box img{
+    width: 100%;
+    height: 344px;
+    object-fit: cover;
+    border-radius: 0.5rem;
+
+}
+.post-box video{
     width: 100%;
     height: 344px;
     object-fit: cover;
