@@ -8,6 +8,7 @@ This repository contains the HTML and CSS code for a basic front-end clone of th
 
 - HTML
 - CSS
+- JS
 
 
 ## Getting Started
